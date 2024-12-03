@@ -1,2 +1,8 @@
-# Stock-Portfolio-Tracker
-Our main idea is to generate trade signals ( buy or sell ) in real time based on the user’s preference and risk tolerance for the stocks the user is interested in trading.These indicators are generally reliable and can provide a certain amount of confidence if it is a good time to buy or sell stocks.
+# Stock Portfolio Tracker  
+
+**Description:**  
+This Stock Portfolio Tracker is a web application designed for investors to efficiently monitor their portfolios. Users can track stock performance, analyze trends, and apply various technical indicators to make informed decisions.  
+
+## Features  
+- **Portfolio Management:** Add, update, and review your stock holdings.  
+- **Indicators Integration:** Utilize popular technical indicators to analyze stock trends.
